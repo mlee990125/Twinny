@@ -1,0 +1,23 @@
+# Core
+streamlit
+pandas
+matplotlib
+plotly
+numpy
+folium 
+
+# Streamlit components
+streamlit-aggrid
+streamlit-elements
+streamlit-agraph
+streamlit-lottie
+streamlit-folium
+streamlit-extras
+
+# NLP
+scikit-learn
+konlpy
+sentence-transformers
+genism
+
+# NOTE: Also install aidp-connector like so: pip install --index-url https://repo.ncsoft.net/artifactory/api/pypi/pypi-dev/simple aidp-connector

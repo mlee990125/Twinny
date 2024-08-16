@@ -1,0 +1,11 @@
+[theme]
+base="dark"
+primaryColor="#76ABAE"
+backgroundColor="#1C1C1C"
+secondaryBackgroundColor="#222831"
+textColor="#F8FBFE"
+font="sans serif"
+
+[client]
+toolbarMode = "developer"
+
